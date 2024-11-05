@@ -1,0 +1,840 @@
+20241026 15:04:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:04:28 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:04:28 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test1_SFDC
+20241026 15:04:28 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:04:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:04:30 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:04:30 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:04:30 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java53 - Correct error message displayed: Please enter your password.
+20241026 15:04:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:04:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:04:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:04:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:08:50 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:08:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:08:53 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test2_SFDC
+20241026 15:08:53 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java74 - Salesforce login page is displayed.
+20241026 15:08:53 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:08:55 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:08:55 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:08:57 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:09:00 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java87 - Salesforce home page is displayed after login.
+20241026 15:09:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:09:02 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:09:02 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:09:02 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:09:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:09:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:09:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test2_SFDC
+20241026 15:09:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java74 - Salesforce login page is displayed.
+20241026 15:09:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:09:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:09:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:09:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:09:11 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java87 - Salesforce home page is displayed after login.
+20241026 15:09:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:09:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:09:13 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:09:13 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:11:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:12:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:12:01 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test2_SFDC
+20241026 15:12:01 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java74 - Salesforce login page is displayed.
+20241026 15:12:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:12:02 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:12:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:12:04 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:12:06 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java87 - Salesforce home page is displayed after login.
+20241026 15:12:08 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:12:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:12:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:12:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:14:29 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:14:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:14:32 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test2_SFDC
+20241026 15:14:32 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java74 - Salesforce login page is displayed.
+20241026 15:14:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:14:33 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:14:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:14:35 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:14:37 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java87 - Salesforce home page is displayed after login.
+20241026 15:14:39 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:14:39 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:14:39 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:14:39 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:15:41 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:15:44 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:15:44 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test3_SFDC
+20241026 15:15:44 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:15:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:15:46 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:15:46 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Remember_me button is clicked
+20241026 15:15:46 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java105 - Remember_me checkbox checked
+20241026 15:15:47 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:15:49 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - user_tab button is clicked
+20241026 15:15:52 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java119 - Logout link clicked
+20241026 15:15:57 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java137 - Username field is not present.
+20241026 15:15:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:15:59 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:15:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:15:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:21:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:21:04 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:21:04 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test3_SFDC
+20241026 15:21:04 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java105 - Salesforce login page is displayed.
+20241026 15:21:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:21:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:21:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:37:18 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:37:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:37:25 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test3_SFDC
+20241026 15:37:25 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java105 - Salesforce login page is displayed.
+20241026 15:37:28 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:37:28 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:37:28 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:39:49 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:39:54 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:39:54 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test3_SFDC
+20241026 15:39:54 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java106 - Salesforce login page is displayed.
+20241026 15:39:55 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java120 - Username field is populated with expected value: navindu796@gmail.com
+20241026 15:39:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:39:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:39:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:41:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:41:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:41:15 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test3_SFDC
+20241026 15:41:15 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java106 - Salesforce login page is displayed.
+20241026 15:41:16 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java120 - Username field is populated with expected value: navindu796@gmail.com
+20241026 15:41:16 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java127 - Remember Username checkbox is not selected; selecting it now.
+20241026 15:41:17 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java131 - Remember Username checkbox is selected.
+20241026 15:41:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:41:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:41:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:41:18 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:41:22 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:41:22 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:41:22 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:45:37 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:45:40 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:45:40 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test4A_SFDC
+20241026 15:45:40 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java154 - Salesforce login page is displayed.
+20241026 15:45:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java167 - Username field is populated with expected value: navindu796@gmail.com
+20241026 15:45:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java174 - Remember Username checkbox is not selected; selecting it now.
+20241026 15:45:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java178 - Remember Username checkbox is selected.
+20241026 15:45:41 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 15:45:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 15:45:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 15:45:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java77 - Login button is clicked
+20241026 15:45:45 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java195 - Salesforce home page is displayed after login.
+20241026 15:46:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:46:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:46:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:52:28 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:52:31 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:52:31 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 15:52:31 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:52:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:52:34 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java150 - SFDC application launched.
+20241026 15:52:35 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java158 - SFDC login page is displayed successfully.
+20241026 15:52:36 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 15:53:06 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java195 - SFDC Forgot Password functionality failed.
+20241026 15:53:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:53:08 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:53:08 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:53:08 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:56:46 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:56:51 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:56:51 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 15:56:51 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:56:54 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:56:54 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java153 - SFDC application launched.
+20241026 15:56:54 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java161 - SFDC login page is displayed successfully.
+20241026 15:56:55 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java168 - Clicked on Forgot Password link.
+20241026 15:57:05 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java198 - SFDC Forgot Password functionality failed.
+20241026 15:57:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:57:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:57:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:57:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 15:58:24 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 15:58:30 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 15:58:30 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 15:58:30 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java153 - SFDC application launched.
+20241026 15:58:30 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - SFDC login page is displayed successfully.
+20241026 15:58:31 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java172 - Clicked on Forgot Password link.
+20241026 15:58:42 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java202 - SFDC Forgot Password functionality failed.
+20241026 15:58:43 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:58:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 15:58:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 15:58:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:00:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:00:38 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:00:38 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:00:38 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:00:43 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:00:43 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:00:43 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java159 - SFDC login page is displayed successfully.
+20241026 16:00:44 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java164 - Clicked on Forgot Password link.
+20241026 16:00:59 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java188 - SFDC Forgot Password functionality failed.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.tagName: h2 (tried for 15 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.23.1.jar:?]
+	at com.automation.Testscripts_SFDC.Automationscripts2_1.testForgotPasswordFunctionality(Automationscripts2_1.java:167) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) ~[testng-remote.jar:?]
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=130.0.2849.56)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ce137ee154a9abe89cd0af38de438053, findElement {using=tag name, value=h2}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 130.0.2849.56, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57039}, msedge: {msedgedriverVersion: 130.0.2849.56 (85245383cd01..., userDataDir: C:\Users\16123\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57039/devtoo..., se:cdpVersion: 130.0.2849.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce137ee154a9abe89cd0af38de438053
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-server-4.23.1.jar:?]
+	... 27 more
+20241026 16:01:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:01:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:01:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:01:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:13:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:13:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:13:09 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test4_SFDC
+20241026 16:13:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:13:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:13:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:13:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java159 - SFDC login page is displayed successfully.
+20241026 16:13:15 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java164 - Clicked on Forgot Password link.
+20241026 16:13:32 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java188 - SFDC Forgot Password functionality failed.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.tagName: h2 (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 130.0.2849.56, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57207}, msedge: {msedgedriverVersion: 130.0.2849.56 (85245383cd01..., userDataDir: C:\Users\16123\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57207/devtoo..., se:cdpVersion: 130.0.2849.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dcc5e0fb32ae9d2c367f6846ec86be6
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.23.1.jar:?]
+	at com.automation.Testscripts_SFDC.Automationscripts2_1.test4_SFDC(Automationscripts2_1.java:167) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) ~[testng-remote.jar:?]
+20241026 16:13:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:13:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:13:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:13:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:13:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:14:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:14:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: test4_SFDC
+20241026 16:14:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:14:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java159 - SFDC login page is displayed successfully.
+20241026 16:14:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java164 - Clicked on Forgot Password link.
+20241026 16:14:33 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java188 - SFDC Forgot Password functionality failed.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.tagName: h2 (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 130.0.2849.56, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57294}, msedge: {msedgedriverVersion: 130.0.2849.56 (85245383cd01..., userDataDir: C:\Users\16123\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57294/devtoo..., se:cdpVersion: 130.0.2849.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0065af47fba90a68fd59eebae3d61bc9
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.23.1.jar:?]
+	at com.automation.Testscripts_SFDC.Automationscripts2_1.test4_SFDC(Automationscripts2_1.java:167) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) ~[testng-remote.jar:?]
+20241026 16:14:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:14:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:14:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:14:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:18:22 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:18:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:18:26 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:18:26 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:18:26 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java160 - SFDC login page is displayed successfully.
+20241026 16:18:26 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 16:18:56 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java191 - SFDC Forgot Password functionality failed.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h2[contains(text(), 'Forgot Your Password')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 130.0.2849.56, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57359}, msedge: {msedgedriverVersion: 130.0.2849.56 (85245383cd01..., userDataDir: C:\Users\16123\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57359/devtoo..., se:cdpVersion: 130.0.2849.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f2ceb26acdcdafb83d9fa2b8b531c81
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.23.1.jar:?]
+	at com.automation.Testscripts_SFDC.Automationscripts2_1.testForgotPasswordFunctionality(Automationscripts2_1.java:168) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) ~[testng-remote.jar:?]
+20241026 16:18:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:18:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:18:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:18:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:21:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:22:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:22:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:22:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:22:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java160 - SFDC login page is displayed successfully.
+20241026 16:22:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 16:22:03 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java171 - Forgot Password page is displayed successfully.
+20241026 16:22:04 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java176 - Entered username: navindu796@gmail.com
+20241026 16:22:04 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java180 - Clicked Continue button.
+20241026 16:22:04 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:22:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:22:05 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:22:05 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:27:57 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:28:00 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:28:00 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:28:00 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:28:00 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java160 - SFDC login page is displayed successfully.
+20241026 16:28:01 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 16:28:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:28:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:28:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:28:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:30:11 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:30:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:30:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:30:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:30:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java160 - SFDC login page is displayed successfully.
+20241026 16:30:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 16:30:44 ERROR [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java191 - SFDC Forgot Password functionality failed.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h2[contains(text(), 'Forgot Your Password')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 130.0.2849.56, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57789}, msedge: {msedgedriverVersion: 130.0.2849.56 (85245383cd01..., userDataDir: C:\Users\16123\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57789/devtoo..., se:cdpVersion: 130.0.2849.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 72ab735a60eea8dadec71bd2bd8f47a7
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-server-4.23.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-server-4.23.1.jar:?]
+	at com.automation.Testscripts_SFDC.Automationscripts2_1.testForgotPasswordFunctionality(Automationscripts2_1.java:168) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) ~[testng-remote.jar:?]
+20241026 16:30:46 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:30:46 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:30:46 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:30:46 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:33:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:33:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:33:14 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:33:14 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:33:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:33:17 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:33:17 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java160 - SFDC login page is displayed successfully.
+20241026 16:33:17 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 16:33:17 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java171 - Forgot Password page is displayed successfully.
+20241026 16:33:17 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java176 - Entered username: navindu796@gmail.com
+20241026 16:33:18 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java180 - Clicked Continue button.
+20241026 16:33:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:33:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:33:19 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:33:19 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:33:37 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:33:41 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:33:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:33:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java152 - SFDC application launched.
+20241026 16:33:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java160 - SFDC login page is displayed successfully.
+20241026 16:33:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java165 - Clicked on Forgot Password link.
+20241026 16:33:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java171 - Forgot Password page is displayed successfully.
+20241026 16:33:41 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java176 - Entered username: navindu796@gmail.com
+20241026 16:33:43 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java180 - Clicked Continue button.
+20241026 16:33:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:33:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:33:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:33:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:36:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:36:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:36:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java31 - Starting test: testForgotPasswordFunctionality
+20241026 16:36:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java151 - SFDC application launched.
+20241026 16:36:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java159 - SFDC login page is displayed successfully.
+20241026 16:36:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java164 - Clicked on Forgot Password link.
+20241026 16:36:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java170 - Forgot Password page is displayed successfully.
+20241026 16:36:05 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java175 - Entered username: navindu796@gmail.com
+20241026 16:36:06 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java179 - Clicked Continue button.
+20241026 16:36:06 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java186 - Password reset message found: We’ve sent you an email with a link to finish resetting your password.
+20241026 16:36:06 INFO  [main] Testscripts_SFDC.Automationscripts2_1 Automationscripts2_1.java189 - Password reset message page is displayed successfully.
+20241026 16:36:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:36:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:36:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:36:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:38:02 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:38:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:38:06 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test1_SFDC
+20241026 16:38:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 16:38:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 16:38:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 16:38:07 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java60 - Correct error message displayed: Please enter your password.
+20241026 16:38:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:38:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:38:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:38:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:38:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:38:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:38:12 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test2_SFDC
+20241026 16:38:12 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java76 - Salesforce login page is displayed.
+20241026 16:38:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 16:38:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 16:38:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 16:38:22 ERROR [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java88 - Salesforce home page verification failed.
+20241026 16:38:24 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:38:24 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:38:24 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:38:24 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:38:24 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 16:38:27 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 16:38:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test3_SFDC
+20241026 16:38:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java106 - Remember Username checkbox is selected.
+20241026 16:38:27 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 16:38:28 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 16:38:28 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 16:38:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:38:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 16:38:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 16:38:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 16:38:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:51:49 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:51:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:51:53 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test1_SFDC
+20241026 21:51:53 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:51:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:51:54 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:51:55 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java60 - Correct error message displayed: Please enter your password.
+20241026 21:51:57 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:51:57 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:51:57 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:51:57 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:51:57 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:52:00 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:52:00 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test2_SFDC
+20241026 21:52:00 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java76 - Salesforce login page is displayed.
+20241026 21:52:00 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:52:00 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:52:01 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:52:05 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java86 - Salesforce home page is displayed after login.
+20241026 21:52:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:52:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:52:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:52:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:52:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:52:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:52:09 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test3_SFDC
+20241026 21:52:10 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java106 - Remember Username checkbox is selected.
+20241026 21:52:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:52:11 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:52:11 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:52:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:52:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:52:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:52:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:52:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:52:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:52:17 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: testForgotPasswordFunctionality
+20241026 21:52:17 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java117 - SFDC application launched.
+20241026 21:52:17 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java121 - SFDC login page is displayed successfully.
+20241026 21:52:17 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java47 - Forgot Password link is displayed.
+20241026 21:52:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java127 - Forgot Password page is displayed successfully.
+20241026 21:52:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java138 - Password reset message page is displayed successfully.
+20241026 21:52:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:52:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:52:21 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:52:21 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:58:37 INFO  [main] Utility.SalesforceListener SalesforceListener.java24 - Salesforce User Menu Tests started...............
+20241026 21:58:37 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:58:40 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:58:40 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - test5_Usermenu started..................
+20241026 21:58:40 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:58:41 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:58:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:58:44 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java65 - Salesforce login successful, home page is displayed with correct username: Vinutha Prabhakar
+20241026 21:58:45 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java88 - All expected options are displayed in the user menu dropdown.
+20241026 21:58:46 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - test5_Usermenu ended with success......................
+20241026 21:58:47 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:58:47 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:58:47 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:58:47 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:58:49 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:58:49 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - test8_Usermenu started..................
+20241026 21:58:49 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:58:50 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:58:50 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:58:51 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java31 - Logged in to Salesforce successfully.
+20241026 21:58:53 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java107 - User menu opened.
+20241026 21:58:53 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java111 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20241026 21:58:54 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java124 - Developer Console window closed.
+20241026 21:58:54 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - test8_Usermenu ended with success......................
+20241026 21:58:56 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:58:56 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:58:56 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:58:56 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:58:57 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:58:57 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - test9_Usermenu started..................
+20241026 21:58:57 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:58:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:58:59 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:58:59 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java31 - Logged in to Salesforce successfully.
+20241026 21:59:01 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java164 - Logout successful, login page displayed.
+20241026 21:59:02 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - test9_Usermenu ended with success......................
+20241026 21:59:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:59:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:59:03 INFO  [main] Utility.SalesforceListener SalesforceListener.java43 - Salesforce User Menu Tests ended.................
+20241026 21:59:03 INFO  [main] Utility.SalesforceListener SalesforceListener.java24 - Salesforce SFDC started...............
+20241026 21:59:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:59:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:59:05 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test1_SFDC
+20241026 21:59:05 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - test1_SFDC started..................
+20241026 21:59:05 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:59:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:59:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:59:07 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java60 - Correct error message displayed: Please enter your password.
+20241026 21:59:07 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - test1_SFDC ended with success......................
+20241026 21:59:08 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:08 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:08 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:59:08 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:59:08 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:59:11 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:59:11 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test2_SFDC
+20241026 21:59:11 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - test2_SFDC started..................
+20241026 21:59:11 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java76 - Salesforce login page is displayed.
+20241026 21:59:11 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:59:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:59:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:59:16 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java86 - Salesforce home page is displayed after login.
+20241026 21:59:16 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - test2_SFDC ended with success......................
+20241026 21:59:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:59:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:59:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:59:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:59:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test3_SFDC
+20241026 21:59:19 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - test3_SFDC started..................
+20241026 21:59:20 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java106 - Remember Username checkbox is selected.
+20241026 21:59:20 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 21:59:20 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 21:59:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 21:59:23 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - test3_SFDC ended with success......................
+20241026 21:59:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:59:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:59:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 21:59:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 21:59:26 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: testForgotPasswordFunctionality
+20241026 21:59:26 INFO  [main] Utility.SalesforceListener SalesforceListener.java49 - testForgotPasswordFunctionality started..................
+20241026 21:59:26 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java117 - SFDC application launched.
+20241026 21:59:26 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java121 - SFDC login page is displayed successfully.
+20241026 21:59:26 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java47 - Forgot Password link is displayed.
+20241026 21:59:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java127 - Forgot Password page is displayed successfully.
+20241026 21:59:28 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java138 - Password reset message page is displayed successfully.
+20241026 21:59:28 INFO  [main] Utility.SalesforceListener SalesforceListener.java55 - testForgotPasswordFunctionality ended with success......................
+20241026 21:59:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 21:59:29 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 21:59:29 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 21:59:29 INFO  [main] Utility.SalesforceListener SalesforceListener.java43 - Salesforce SFDC ended.................
+20241026 22:03:01 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 22:03:04 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 22:03:04 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test1_SFDC
+20241026 22:03:04 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 22:03:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 22:03:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 22:03:08 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java62 - Correct error message displayed: Please enter your password.
+20241026 22:03:10 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:10 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 22:03:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 22:03:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 22:03:11 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 22:03:11 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test2_SFDC
+20241026 22:03:11 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java78 - Salesforce login page is displayed.
+20241026 22:03:11 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 22:03:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 22:03:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 22:03:16 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java88 - Salesforce home page is displayed after login.
+20241026 22:03:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 22:03:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 22:03:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 22:03:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 22:03:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test3_SFDC
+20241026 22:03:20 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java108 - Remember Username checkbox is selected.
+20241026 22:03:20 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 22:03:20 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 22:03:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 22:03:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 22:03:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 22:03:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 22:03:27 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 22:03:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: testForgotPasswordFunctionality
+20241026 22:03:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java119 - SFDC application launched.
+20241026 22:03:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java123 - SFDC login page is displayed successfully.
+20241026 22:03:27 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java47 - Forgot Password link is displayed.
+20241026 22:03:29 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java129 - Forgot Password page is displayed successfully.
+20241026 22:03:32 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java141 - Password reset message page is displayed successfully.
+20241026 22:03:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:03:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 22:03:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 22:06:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 22:06:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 22:06:12 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test2_SFDC
+20241026 22:06:12 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java78 - Salesforce login page is displayed.
+20241026 22:06:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 22:06:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 22:06:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 22:06:17 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java88 - Salesforce home page is displayed after login.
+20241026 22:06:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:06:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:06:19 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 22:06:19 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241026 22:06:40 INFO  [main] Base.Salesforce_Login Salesforce_Login.java20 - -------------------------- Setup Before Method -------------------------------------
+20241026 22:06:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241026 22:06:42 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java30 - Starting test: test2_SFDC
+20241026 22:06:43 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java78 - Salesforce login page is displayed.
+20241026 22:06:43 INFO  [main] Base.Salesforce_Login Salesforce_Login.java36 - Logging into Salesforce with username: navindu796@gmail.com
+20241026 22:06:44 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241026 22:06:44 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241026 22:06:49 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java89 - Salesforce home page is displayed after login.
+20241026 22:06:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:06:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241026 22:06:53 INFO  [main] Base.Salesforce_Login Salesforce_Login.java29 - -------------------------- Setup After Method -------------------------------------
+20241026 22:06:53 INFO  [main] Base.Salesforce_Login Salesforce_Login.java30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:24:10 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce User Menu Tests started...............
+20241029 14:24:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:24:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:24:14 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - test5_Usermenu test started
+20241029 14:24:14 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241029 14:24:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241029 14:24:16 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241029 14:24:40 ERROR [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java90 - Test failed with exception: Expected condition failed: waiting for visibility of element located by By.id: userNav-arrow (tried for 20 second(s) with 500 milliseconds interval)
+20241029 14:24:41 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - test5_Usermenu test passed
+20241029 14:24:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:24:42 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:24:42 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:24:42 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:24:43 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:24:43 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - test8_Usermenu test started
+20241029 14:24:43 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241029 14:24:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241029 14:24:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241029 14:24:47 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java31 - Logged in to Salesforce successfully.
+20241029 14:25:07 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java106 - User menu opened.
+20241029 14:25:07 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java110 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20241029 14:25:08 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java124 - Developer Console window closed.
+20241029 14:25:08 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - test8_Usermenu test passed
+20241029 14:25:10 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:25:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:25:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:25:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:25:12 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - test9_Usermenu test started
+20241029 14:25:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241029 14:25:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241029 14:25:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241029 14:25:14 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java31 - Logged in to Salesforce successfully.
+20241029 14:25:16 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java166 - Logout successful, login page displayed.
+20241029 14:25:16 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - test9_Usermenu test passed
+20241029 14:25:18 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:18 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:25:18 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:25:18 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce User Menu Tests finished
+20241029 14:25:18 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce SFDC started...............
+20241029 14:25:18 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:25:20 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:25:20 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: test1_SFDC
+20241029 14:25:20 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - test1_SFDC test started
+20241029 14:25:20 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241029 14:25:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241029 14:25:22 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241029 14:25:24 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java65 - Correct error message displayed: Please enter your password.
+20241029 14:25:24 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - test1_SFDC test passed
+20241029 14:25:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:26 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:25:26 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:25:26 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:25:28 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:25:28 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: test2_SFDC
+20241029 14:25:28 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - test2_SFDC test started
+20241029 14:25:28 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java81 - Salesforce login page is displayed.
+20241029 14:25:28 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241029 14:25:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241029 14:25:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241029 14:25:34 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java92 - Salesforce home page is displayed after login.
+20241029 14:25:34 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - test2_SFDC test passed
+20241029 14:25:36 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:36 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:36 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:25:36 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:25:36 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:25:38 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:25:38 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: test3_SFDC
+20241029 14:25:38 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - test3_SFDC test started
+20241029 14:25:41 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java114 - Remember Username checkbox is selected.
+20241029 14:25:41 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241029 14:25:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241029 14:25:42 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241029 14:25:45 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - test3_SFDC test passed
+20241029 14:25:47 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:47 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:47 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:25:47 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:25:47 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241029 14:25:49 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241029 14:25:49 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testForgotPasswordFunctionality
+20241029 14:25:49 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testForgotPasswordFunctionality test started
+20241029 14:25:49 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java125 - SFDC application launched.
+20241029 14:25:49 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java129 - SFDC login page is displayed successfully.
+20241029 14:25:49 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java49 - Forgot Password link is displayed.
+20241029 14:25:51 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java135 - Forgot Password page is displayed successfully.
+20241029 14:25:54 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java148 - Password reset message page is displayed successfully.
+20241029 14:25:54 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testForgotPasswordFunctionality test passed
+20241029 14:25:56 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:56 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241029 14:25:56 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241029 14:25:56 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241029 14:25:56 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce SFDC finished

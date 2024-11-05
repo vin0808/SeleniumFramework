@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-29T14:24:10 CDT" name="Suite" finished-at="2024-10-29T14:25:56 CDT" duration-ms="105545">
+    <groups>
+    </groups>
+    <test started-at="2024-10-29T14:24:10 CDT" name="Salesforce User Menu Tests" finished-at="2024-10-29T14:25:18 CDT" duration-ms="67675">
+      <class name="com.automation.Testscripts_usermenu.Automationscripts1_1">
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:24:10 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:24:14 CDT" duration-ms="3382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@d504137]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method signature="test5_Usermenu()[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:24:14 CDT" name="test5_Usermenu" finished-at="2024-10-29T14:24:41 CDT" duration-ms="26754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5_Usermenu -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:24:41 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:24:42 CDT" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:24:42 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:24:43 CDT" duration-ms="1591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@d504137]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method signature="test8_Usermenu()[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:24:43 CDT" name="test8_Usermenu" finished-at="2024-10-29T14:25:08 CDT" duration-ms="25021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8_Usermenu -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:25:08 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:25:10 CDT" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:25:10 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:25:12 CDT" duration-ms="1794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@d504137]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method signature="test9_Usermenu()[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:25:12 CDT" name="test9_Usermenu" finished-at="2024-10-29T14:25:16 CDT" duration-ms="4687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9_Usermenu -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_usermenu.Automationscripts1_1@6c67e137]" started-at="2024-10-29T14:25:16 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:25:18 CDT" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+      </class> <!-- com.automation.Testscripts_usermenu.Automationscripts1_1 -->
+    </test> <!-- Salesforce User Menu Tests -->
+    <test started-at="2024-10-29T14:25:18 CDT" name="Salesforce SFDC" finished-at="2024-10-29T14:25:56 CDT" duration-ms="37775">
+      <class name="com.automation.Testscripts_SFDC.Automationscripts2_2">
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:18 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:25:20 CDT" duration-ms="1834" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8432469]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method is-config="true" signature="setupTest(java.lang.reflect.Method)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:20 CDT" name="setupTest" finished-at="2024-10-29T14:25:20 CDT" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.Testscripts_SFDC.Automationscripts2_2.test1_SFDC() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="test1_SFDC()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:20 CDT" name="test1_SFDC" finished-at="2024-10-29T14:25:24 CDT" duration-ms="4107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_SFDC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:24 CDT" name="tearDown" finished-at="2024-10-29T14:25:26 CDT" duration-ms="1652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:26 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:25:26 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:26 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:25:28 CDT" duration-ms="1824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8432469]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method is-config="true" signature="setupTest(java.lang.reflect.Method)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:28 CDT" name="setupTest" finished-at="2024-10-29T14:25:28 CDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.Testscripts_SFDC.Automationscripts2_2.test2_SFDC() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="test2_SFDC()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:28 CDT" name="test2_SFDC" finished-at="2024-10-29T14:25:34 CDT" duration-ms="6848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_SFDC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:34 CDT" name="tearDown" finished-at="2024-10-29T14:25:36 CDT" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:36 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:25:36 CDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:36 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:25:38 CDT" duration-ms="1872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8432469]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method is-config="true" signature="setupTest(java.lang.reflect.Method)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:38 CDT" name="setupTest" finished-at="2024-10-29T14:25:38 CDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.Testscripts_SFDC.Automationscripts2_2.test3_SFDC() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="test3_SFDC()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:38 CDT" name="test3_SFDC" finished-at="2024-10-29T14:25:45 CDT" duration-ms="7021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_SFDC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:45 CDT" name="tearDown" finished-at="2024-10-29T14:25:47 CDT" duration-ms="1678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:47 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:25:47 CDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestContext)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:47 CDT" name="setupBeforeMethod" finished-at="2024-10-29T14:25:49 CDT" duration-ms="1778" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8432469]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method is-config="true" signature="setupTest(java.lang.reflect.Method)[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:49 CDT" name="setupTest" finished-at="2024-10-29T14:25:49 CDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.Testscripts_SFDC.Automationscripts2_2.testForgotPasswordFunctionality() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="testForgotPasswordFunctionality()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:49 CDT" name="testForgotPasswordFunctionality" finished-at="2024-10-29T14:25:54 CDT" duration-ms="5674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:54 CDT" name="tearDown" finished-at="2024-10-29T14:25:56 CDT" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupAfterMethod()[pri:0, instance:com.automation.Testscripts_SFDC.Automationscripts2_2@669513d8]" started-at="2024-10-29T14:25:56 CDT" name="setupAfterMethod" finished-at="2024-10-29T14:25:56 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+      </class> <!-- com.automation.Testscripts_SFDC.Automationscripts2_2 -->
+    </test> <!-- Salesforce SFDC -->
+  </suite> <!-- Suite -->
+</testng-results>
